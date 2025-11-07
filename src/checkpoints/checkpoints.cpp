@@ -250,15 +250,15 @@ namespace cryptonote
     std::vector<std::string> records;
 
     // All four MoneroPulse domains have DNSSEC on and valid
-    static const std::vector<std::string> dns_urls = { "checkpoints.moneropulse.se"
+    static const std::vector<std::string> dns_urls = {
 
     };
 
-    static const std::vector<std::string> testnet_dns_urls = { "testpoints.moneropulse.se"
+    static const std::vector<std::string> testnet_dns_urls = { 
 
     };
 
-    static const std::vector<std::string> stagenet_dns_urls = { "stagenetpoints.moneropulse.se"
+    static const std::vector<std::string> stagenet_dns_urls = { 
 
     };
 
